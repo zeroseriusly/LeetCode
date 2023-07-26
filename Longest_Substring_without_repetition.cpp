@@ -37,4 +37,6 @@ int main()
 
         return max_count;
     }
+
+    return 0;
 }
